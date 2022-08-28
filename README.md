@@ -1,1 +1,2 @@
 # kurdish_word
+gg
