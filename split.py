@@ -5,7 +5,7 @@ print (word)
 
 f = open("test.txt" , "w+")
 for i in word:
-    if len(i) == 1 :
+    if len(i) == 1 or i == "" or i == " ":
         pass
     else:
         f.write(i+"\n")
