@@ -1,2 +1,2 @@
-# kurdish_word
-gg
+# kurdish_(sorani)
+accent
